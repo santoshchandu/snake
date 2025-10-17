@@ -9,4 +9,4 @@ Note that the game might be unplayable on some browsers for different reasons, l
 
 Although this game is kind of a joke, bug reports, ideas and pull requests are always [welcome](https://github.com/santoshchandu/snake/issues)!
 # snake
-# snake
+
